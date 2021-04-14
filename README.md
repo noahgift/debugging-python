@@ -23,7 +23,7 @@ Print everything until you figure out what is going on
 
 ## Pull out the debugger.
 
-`import pdb;pdb.set_trace`
+`import pdb;pdb.set_trace()`
 
 Can also use `ipdb`:  https://pypi.org/project/ipdb/
 
