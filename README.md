@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/noahgift/debugging-python/actions/workflows/blank.yml/badge.svg)](https://github.com/noahgift/debugging-python/actions/workflows/blank.yml)
+
+
 # debugging-python
 Obvious and non-obvious solutions for debugging Python Code
 
