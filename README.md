@@ -1,6 +1,11 @@
 # debugging-python
 Obvious and non-obvious solutions for debugging Python Code
 
+
+## Setup Virtualenv
+
+A good way to debug code:  `virtualenv ~/.debug` `source ~/.debug/bin/activate`
+
 ## Continuous Integration (It isn't automated it is broken)
 
 It seems like automated testing and linting is more work, but it is less.  You can even skip the testing and only lint your code.
