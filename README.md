@@ -17,6 +17,8 @@ Print everything until you figure out what is going on
 
 `import pdb;pdb.set_trace`
 
+Can also use `ipdb`:  https://pypi.org/project/ipdb/
+
 ## Install IPython and import portions of your code and test it out
 
 `from hello import add`
